@@ -9,3 +9,7 @@ Try to **click** on the moving target as many times as possible as the target de
 This project is written in Java using Processing 2. Main features include using a variable to represent the "screen" the player is currently in to display the appropreate interface such as the main menu, the game screen, the "options" or settings screen and the pause screen mode. 
 
 Taking advantage of the built-in libraries for user keyboard and mouse input, League of Clickers can be played using a mouse or a trackpad. AudioPlayer class imported from the Minim library handling audio cues in game.
+
+## Live Demo
+https://github.com/ddssamu3l/ClickerGame/assets/72890797/e4351d82-0ccf-4a6e-9ce7-c54f106b0bcc
+
